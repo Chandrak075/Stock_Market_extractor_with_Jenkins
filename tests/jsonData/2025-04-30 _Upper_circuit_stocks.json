@@ -1,0 +1,82 @@
+[
+  {
+    "Stock_name": "Vishal Mega Mart Ltd.",
+    "price_now": "118.48",
+    "Change_percentage": "+10.00"
+  },
+  {
+    "Stock_name": "NACL Industries Ltd.",
+    "price_now": "187.84",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Pokarna Ltd.",
+    "price_now": "903.70",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Dolphin Offshore Enterprises (India) Ltd.",
+    "price_now": "405.90",
+    "Change_percentage": "+2.00"
+  },
+  {
+    "Stock_name": "Electrotherm (India) Ltd.",
+    "price_now": "1,213.55",
+    "Change_percentage": "+2.00"
+  },
+  {
+    "Stock_name": "Macpower CNC Machines Ltd.",
+    "price_now": "847.95",
+    "Change_percentage": "+2.00"
+  },
+  {
+    "Stock_name": "VL E-Governance & IT Solutions Ltd.",
+    "price_now": "48.45",
+    "Change_percentage": "+2.00"
+  },
+  {
+    "Stock_name": "Elgi Rubber Company Ltd.",
+    "price_now": "62.44",
+    "Change_percentage": "+1.99"
+  },
+  {
+    "Stock_name": "Global Vectra Helicorp Ltd.",
+    "price_now": "220.90",
+    "Change_percentage": "+10.00"
+  },
+  {
+    "Stock_name": "Setco Automotive Ltd.",
+    "price_now": "18.36",
+    "Change_percentage": "+2.00"
+  },
+  {
+    "Stock_name": "Kalyani Forge Ltd.",
+    "price_now": "634.35",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Astron Paper & Board Mill Ltd.",
+    "price_now": "14.91",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Binani Industries Ltd.",
+    "price_now": "18.69",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Mask Investments Ltd.",
+    "price_now": "163.96",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "TV Vision Ltd.",
+    "price_now": "7.17",
+    "Change_percentage": "+1.99"
+  },
+  {
+    "Stock_name": "Cura Technologies Ltd.",
+    "price_now": "71.44",
+    "Change_percentage": "+2.00"
+  }
+]

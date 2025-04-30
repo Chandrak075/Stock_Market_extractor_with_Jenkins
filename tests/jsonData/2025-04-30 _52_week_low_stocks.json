@@ -1,0 +1,38 @@
+[
+  {
+    "Stock_name": "Dr. Agarwals Health Care Ltd.",
+    "price_now": "364.90",
+    "Todays_low": "361.00",
+    "Previous_low": "361.10"
+  },
+  {
+    "Stock_name": "Tinna Rubber And Infrastructure Ltd.",
+    "price_now": "947.15",
+    "Todays_low": "943.95",
+    "Previous_low": "950.00"
+  },
+  {
+    "Stock_name": "Akme Fintrade (India) Ltd.",
+    "price_now": "7.37",
+    "Todays_low": "7.30",
+    "Previous_low": "7.55"
+  },
+  {
+    "Stock_name": "Gensol Engineering Ltd.",
+    "price_now": "77.29",
+    "Todays_low": "77.29",
+    "Previous_low": "85.65"
+  },
+  {
+    "Stock_name": "KBC Global Ltd.",
+    "price_now": "0.44",
+    "Todays_low": "0.44",
+    "Previous_low": "0.45"
+  },
+  {
+    "Stock_name": "AGS Transact Technologies Ltd.",
+    "price_now": "5.45",
+    "Todays_low": "5.45",
+    "Previous_low": "5.52"
+  }
+]
